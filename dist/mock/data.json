@@ -1,0 +1,39 @@
+[
+    {
+        "image": "../source/song_1.jpg",
+        "audioSrc": "../source/song_1.mp3",
+        "name": "听妈妈的话",
+        "album": "依然范特西",
+        "singer": "周杰伦",
+        "duration": 266,
+        "isLike": true
+    },
+    {
+        "image": "../source/song_2.jpg",
+        "audioSrc": "../source/song_2.mp3",
+        "name": "野狼Disco",
+        "album": "野狼Disco",
+        "singer": "宝石Gem",
+        "duration": 239,
+        "isLike": false
+    },
+    {
+        "image": "../source/song_3.jpg",
+        "audioSrc": "../source/song_3.mp3",
+        "name": "Lover",
+        "album": "Taylor②",
+        "singer": "taylor Swift",
+        "duration": 248,
+        "isLike": false
+    },
+    {
+        "image": "../source/song_4.jpg",
+        "audioSrc": "../source/song_4.mp3",
+        "name": "ME!",
+        "album": "Taylor@",
+        "singer": "Taylor Swift",
+        "duration": 214,
+        "isLike": false
+    }
+
+]
